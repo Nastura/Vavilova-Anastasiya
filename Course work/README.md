@@ -1,9 +1,9 @@
 ## <span style="color:#0099FF">Решение</span>
-* [<span style="color:#0099FF">Задание 1</span>](https://docs.google.com/spreadsheets/d/1A_b5ZgAy0hzQdrdisc9v5e75Ln3nFPf7mAkh6fATRPM/edit?gid=0#gid=0)
-* [<span style="color:#0099FF">Задание 2</span>](https://docs.google.com/spreadsheets/d/1_m7X3g5ceM7yc_kRwiravxvP-E02o7d65cRrOUC2gCE/edit?gid=0#gid=0)
-* [<span style="color:#0099FF">Задание 3</span>](https://docs.google.com/spreadsheets/d/1ASjuaXWPBtsR4GmbIVvpbdswGv8Vz_wW36AsOOIwv6M/edit?gid=0#gid=0)
-* [<span style="color:#0099FF">Задание 4</span>](https://drive.google.com/drive/folders/149G8kUYd5nrVnrcLyeKx0OmiXHzwTZxn)
-* [<span style="color:#0099FF">Задание 5</span>](https://drive.google.com/file/d/1ieAWXomCHFBGg2lQ1N7DIWfv68xszVi8/view)
+* [<span style="color:#0099FF">Чек-лист проверок</span>](https://docs.google.com/spreadsheets/d/1S4EGcbXehEh3FTJgcosMqp2vOYkBwn8PdoqpHeEHKWU/edit?usp=drive_link)
+* [<span style="color:#0099FF">Набор тест-кейсов</span>](https://docs.google.com/spreadsheets/d/15HuGBkcACizPFfDagPfZOpxlA69PGkFlcNhwgbzj0cE/edit?usp=drive_link)
+* [<span style="color:#0099FF">Баг-репорты</span>](https://docs.google.com/spreadsheets/d/1i316aaUFURyqBGaD9nJGFNSy8FO3j0ALA16WVEBuYac/edit?usp=drive_link)
+* [<span style="color:#0099FF">Работа с DevTools</span>](https://drive.google.com/drive/folders/149G8kUYd5nrVnrcLyeKx0OmiXHzwTZxn)
+* [<span style="color:#0099FF">Параматеры запроса</span>](https://drive.google.com/file/d/1ieAWXomCHFBGg2lQ1N7DIWfv68xszVi8/view)
 
 
 # <span style="color:#d36de3">Курсовой проект к модулю «Ручное тестирование веб-приложений»</span>
